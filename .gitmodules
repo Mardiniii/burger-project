@@ -1,0 +1,15 @@
+[submodule "react-the-complete-guide/time-to-practice-react-js"]
+	path = react-the-complete-guide/time-to-practice-react-js
+	url = https://github.com/Mardiniii/time-to-practice-react-js
+[submodule "react-the-complete-guide/debugging-react-apps"]
+	path = react-the-complete-guide/debugging-react-apps
+	url = https://github.com/Mardiniii/debugging-react-apps
+[submodule "react-the-complete-guide/side-effects-with-react"]
+	path = react-the-complete-guide/side-effects-with-react
+	url = https://github.com/Mardiniii/side-effects-with-react
+[submodule "react-the-complete-guide/react-css-styling"]
+	path = react-the-complete-guide/react-css-styling
+	url = https://github.com/Mardiniii/react-css-styling
+[submodule "react-the-complete-guide/expenses-app"]
+	path = react-the-complete-guide/expenses-app
+	url = https://github.com/Mardiniii/expenses-app
