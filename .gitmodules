@@ -13,3 +13,6 @@
 [submodule "react-the-complete-guide/expenses-app"]
 	path = react-the-complete-guide/expenses-app
 	url = https://github.com/Mardiniii/expenses-app
+[submodule "react-the-complete-guide/food-app"]
+	path = react-the-complete-guide/food-app
+	url = https://github.com/Mardiniii/food-app
