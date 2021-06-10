@@ -16,3 +16,6 @@
 [submodule "react-the-complete-guide/food-app"]
 	path = react-the-complete-guide/food-app
 	url = https://github.com/Mardiniii/food-app
+[submodule "react-the-complete-guide/foundations-and-optimizations"]
+	path = react-the-complete-guide/foundations-and-optimizations
+	url = https://github.com/Mardiniii/react-behind-the-scenes
