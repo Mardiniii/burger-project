@@ -19,3 +19,6 @@
 [submodule "react-the-complete-guide/foundations-and-optimizations"]
 	path = react-the-complete-guide/foundations-and-optimizations
 	url = https://github.com/Mardiniii/react-behind-the-scenes
+[submodule "react-the-complete-guide/class-based-components"]
+	path = react-the-complete-guide/class-based-components
+	url = https://github.com/Mardiniii/class-based-components
